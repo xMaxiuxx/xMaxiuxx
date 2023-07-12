@@ -4,9 +4,9 @@ A Passionate full stack developer from San Luis , Argentina 🇦🇷
 ```js
 const Maximiliano = {
 pronouns: "he" | "him",
-code:[Javascript , Typescript ,CSS , HTML ],  
-tools: [Node js , React , Redux , Express , Sequelize , PostgreSQL ],
-passion: ['performance web', 'web delevopment']
+code:[Javascript,Typescript,CSS,HTML],  
+  tools: [Node js,React,Redux,Express,Sequelize,PostgreSQL],
+  passion: ['performance web', 'web delevopment']
 }
 
 
