@@ -1,4 +1,5 @@
 ### Hi I' am Maximiliano 👋
+A Passionate full stack developer from San Luis , Argentina 🇦🇷
 
 ```js
 const Maximiliano = {
@@ -10,7 +11,8 @@ passion: ['performance web', 'web delevopment']
 ```
 
 
-
+You can contact me ! 🌎:
+Gmail 
 
 
 
