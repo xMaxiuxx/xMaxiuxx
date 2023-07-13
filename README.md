@@ -15,7 +15,7 @@ const Maximiliano = {
 
 - 📫 How to reach me *maxik4po@gmail.com*
 - ⭐ Connect with me :
-[Linkedin](https://www.linkedin.com/in/maximiliano-gatica-550852262/)
+[Linkedin](https://www.linkedin.com/in/maximiliano-gatica-listello-550852262/)
 
 <!--
 **xMaxiuxx/xMaxiuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
