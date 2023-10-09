@@ -5,7 +5,7 @@ A Passionate full stack developer from San Luis , Argentina 🇦🇷
 const Maximiliano = {
   pronouns: 'he'|'him',
    code: [Javascript,Typescript,CSS,HTML],  
-    tools: [Node js,React,Angular,Redux,Express,Sequelize,PostgreSQL,MONGO DB,Mongoose],
+    tools: [Node js,React,Angular,Redux,Express,Sequelize,PostgreSQL,MongoDB,Mongoose],
       passion: ['performance web', 'web delevopment']
 }
 
